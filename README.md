@@ -46,7 +46,7 @@ Chatbot ini berfungsi sebagai pendengar interaktif yang membantu pengguna mengek
 streamlit run chatbot.py
 ```
 
-Kemudian buka link lokal yang muncul (biasanya `http://localhost:8501`).
+Kemudian buka link lokal yang muncul (`http://localhost:8501`).
 
 
 
