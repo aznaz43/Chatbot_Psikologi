@@ -1,7 +1,8 @@
-# 🧠 Chatbot Psikologi ((Final Project Hacktiv8 – AI for Data Science)
+# 🧠 Chatbot Psikologi (Final Project Hacktiv8 – AI for Data Scientist)
 
-Halo! Ini adalah **Chatbot Psikologi** bernama **Minsi** 🩵
-Dibuat dengan **Streamlit** dan **Groq API**, chatbot ini hadir untuk menjadi teman refleksi dan pendengar yang empatik.
+Ini merupakan **Chatbot Psikologi** bernama **Minsi**, yang dibuat menggunakan **Streamlit** dan **Groq API**.  
+Chatbot ini berfungsi sebagai pendengar interaktif yang membantu pengguna mengekspresikan perasaan mereka dengan nyaman.
+
 
 ---
 
@@ -14,7 +15,7 @@ Dibuat dengan **Streamlit** dan **Groq API**, chatbot ini hadir untuk menjadi te
 
 ---
 
-## 🧩 Instalasi
+## 🧩 Langkah Penggunaan
 
 1. Clone repository ini:
 
@@ -45,18 +46,19 @@ streamlit run chatbot.py
 
 Kemudian buka link lokal yang muncul (biasanya `http://localhost:8501`).
 
----
-
-## 📸 Preview
 
 
+## 📸 Preview Chat Bot Psikologi
 
-```
+
+
 ![Chatbot Preview](images/preview_chatbot_psikologi.jpg)
 
+
+
 ```
 
 ---
 
 
-© 2025 by Ash (aznaz43)
+© 2025 by Nurul (aznaz43)
