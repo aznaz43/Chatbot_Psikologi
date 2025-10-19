@@ -52,7 +52,7 @@ Kemudian buka link lokal yang muncul (biasanya `http://localhost:8501`).
 
 
 ```
-
+![Chatbot Preview](images/preview_chatbot_psikologi.jpg)
 
 ```
 
