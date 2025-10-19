@@ -1,4 +1,6 @@
-# 🧠 Chatbot Psikologi (Final Project Hacktiv8 – AI for Data Scientist)
+# 🧠 Chatbot Psikologi - Ruang Cerita dan Refleksi
+
+## 📒 Final Project Hacktiv8 – AI for Data Scientist
 
 Ini merupakan **Chatbot Psikologi** bernama **Minsi**, yang dibuat menggunakan **Streamlit** dan **Groq API**.  
 Chatbot ini berfungsi sebagai pendengar interaktif yang membantu pengguna mengekspresikan perasaan mereka dengan nyaman.
